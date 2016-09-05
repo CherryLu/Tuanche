@@ -1,0 +1,5 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ClassNameCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+</keymap>
